@@ -1,14 +1,14 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
+  "PAGE_ACCESS_TOKEN": "EAAOZAtZCm1VI0BOwduQ9kg38dJOyx38ivZANX1zjiWdEXIuxONn9EVc47MWQAiIZAmFW3pCttrH9rlKIfkk7eZBWPNhgZBZBVqdD6SupiwqXGErpLOaJa3Sk6U2fcvHBVs01tZB0TdN3QRqNR0Jkg8BnKsS1W3G9QChpZCjdXocQRNk4LIXdfy3IEIYtWzOKAjhVecwZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "61554405703021"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "DMM bot",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Danielll",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
